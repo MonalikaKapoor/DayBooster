@@ -12,12 +12,12 @@ The four major tasks that we can perform in a To Do list are:
 3.	Read tasks
 4.	Delete tasks
 
-### Technology Used:
+## Technology Used:
 - HTML
 - CSS
 - Vanilla JavaScript
 
-### Features of the Web-Application:
+## Features of the Web-Application:
 
 The DayBooster Web Application has the following features:
 -	Allows the user to ddd new tasks
@@ -33,11 +33,11 @@ The DayBooster Web Application has the following features:
 
 The web page has a clean and interactive user interface and provides the user with three themes – standard, light and dark theme.
 
-### Deployed Link of the Website:
+## Deployed Link of the Website:
 
 https://daybooster.netlify.app/
 
-### Result:
+## Result:
  
 ![image](https://user-images.githubusercontent.com/67543895/170142674-991130e9-7e22-4a14-bd80-2b15fe6adfa3.png)
 
@@ -45,7 +45,7 @@ https://daybooster.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/67543895/170142726-a573164c-cacd-40a7-80e7-fd4fb29385c2.png)
 
-### Future Scopes:
+## Future Scopes:
 -	ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
 -	Login Features (use APIs) & Database: So, the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
 -	Reminder/Alerts: Sending automated mails once logged in, and due date/time set.
